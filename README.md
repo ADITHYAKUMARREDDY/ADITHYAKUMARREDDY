@@ -10,13 +10,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=adithyakumarreddy" alt="GitHub Profile Trophy" />
   </a>
 </p>
-
+<div align="center">
 - 🌱 I’m currently learning **Next.js**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.crio.do/learn/portfolio/kumaradithya498/).
 - 📫 Reach me at **gakr2064@gmail.com**.
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1NIy30IxynuFWTmirZ43hPKoaPGJBEhgf/view?usp=drivesdk).
 - ⚡ Fun fact: **I enjoy finding humor in everyday situations and believe that a positive attitude can enhance creativity and problem-solving skills.**
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <!-- Add links to social media profiles or other platforms where users can connect with you -->
