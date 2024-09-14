@@ -17,8 +17,8 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1NIy30IxynuFWTmirZ43hPKoaPGJBEhgf/view?usp=drivesdk).
 - ⚡ Fun fact: **I enjoy finding humor in everyday situations and believe that a positive attitude can enhance creativity and problem-solving skills.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <!-- Add links to social media profiles or other platforms where users can connect with you -->
 </p>
 
