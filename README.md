@@ -107,8 +107,8 @@
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
+<h3 align="center">My GitHub Stats:</h3>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyakumarreddy&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyakumarreddy&hide_title=true&hide_border=true&theme=github_dark" alt="GitHub Streak" />
 </p>
